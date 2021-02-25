@@ -21,7 +21,7 @@
     "symbol": "VAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://venus.io/images/markets/VAI.png"
+    "logoURI": "https://app.venus.io/coins/vai.svg"
   },
   {
     "name": "USD Coin",
@@ -53,7 +53,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://venus.io/images/markets/BTC.png"
+    "logoURI": "https://venus.io/images/markets/BTCB.png"
   },
   {
     "name": "Binance-Peg ETH",
@@ -269,6 +269,6 @@
     "symbol": "vADA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x9A0AF7FDb2065Ce470D72664DE73cAE409dA28Ec/logo.png"
+    "logoURI": "https://app.venus.io/coins/vada.png"
   }
 ]
